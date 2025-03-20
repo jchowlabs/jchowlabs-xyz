@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Comic Neue', cursive;
-    height: 100vh;
+    height: 80vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -19,7 +19,7 @@ body {
 }
 
 img {
-    max-width: 200px;
+    max-width: 500px;
     width: 100%;
     height: auto;
 }
